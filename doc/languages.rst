@@ -126,6 +126,11 @@ Template languages
 * `Smarty <http://www.smarty.net>`_ templates (PHP templating)
 * Tea
 
+Log files
+---------
+
+* Linux kernel log (dmesg)
+
 Other markup
 ------------
 
