@@ -129,6 +129,7 @@ Template languages
 Log files
 ---------
 
+* IRC logs (irssi style)
 * Linux kernel log (dmesg)
 
 Other markup
@@ -148,7 +149,6 @@ Other markup
 * HTML
 * HTTP sessions
 * INI-style config files
-* IRC logs (irssi style)
 * Lighttpd config files
 * Makefiles
 * MoinMoin/Trac Wiki markup
